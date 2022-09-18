@@ -1,3 +1,6 @@
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 <!---
 - 👋 Hello there, I’m Felix. Currently studying Computer Systems Technology (CST) @British Columbia Institute of Technology (BCIT).
 - I'm currently looking for internships/CO-OP positions for the 2023 summer.
