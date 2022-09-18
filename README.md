@@ -4,13 +4,18 @@
 
 ### 👨🏾‍💻 About Me
 -  🎓 Studying Computer Systems Technology at the British Columbia Institute of Technology.
-- 📚 Currently learning     Object-Oriented Programming, data structures and algorithms, responsive web design, product design, and technical righting.
+- 📚 Currently learning: `Object-Oriented Programming`, `data structures and algorithms`, `responsive web design`, `product design`, and `technical righting`.
 - 💬 Nothing beats the satisfaction of solving problems with programming. Down to collaborate.
 - Feel free to contact me here ...
 Gmail LinkedIn
 
 ### 🛠️ Languages and Tools 
 Python Git HTML5 CSS3 JavaScript Bootstrap Github VSCODE Pycharm WordPress Figma
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/[ICON SLUG].svg" />
+###  GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fntetteh&show_icons=true)  
+
 
 <!---
 - 👋 Hello there, I’m Felix. Currently studying Computer Systems Technology (CST) @British Columbia Institute of Technology (BCIT).
@@ -19,7 +24,7 @@ Python Git HTML5 CSS3 JavaScript Bootstrap Github VSCODE Pycharm WordPress Figma
 - 🌱 I’m currently learning Java and C++.
 
 
-Github Contribution Stats
+![GitHub metrics](https://metrics.lecoq.io/Fntetteh)  
 
 
 fntetteh/fntetteh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
