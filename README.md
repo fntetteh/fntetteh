@@ -10,11 +10,11 @@
 Gmail LinkedIn
 
 ### 🛠️ Languages and Tools 
-<img height="27" width="27" src="https://github.com/fntetteh/fntetteh/blob/main/icons8-git.svg" /> `Git`,
 <img height="27" width="27" src="https://github.com/fntetteh/fntetteh/blob/main/icons8-python.svg" /> `Python`,
 <img height="27" width="27" src="https://github.com/fntetteh/fntetteh/blob/main/icons8-html-5.svg" /> `HTML5`,
 <img height="27" width="27" src="https://github.com/fntetteh/fntetteh/blob/main/icons8-css3.svg" /> `CSS3`,
 <img height="27" width="27" src="https://github.com/fntetteh/fntetteh/blob/main/icons8-javascript-logo.svg" /> `JavaScript`,
+<img height="27" width="27" src="https://github.com/fntetteh/fntetteh/blob/main/icons8-git.svg" /> `Git`,
 <img height="27" width="27" src="https://github.com/fntetteh/fntetteh/blob/main/icons8-bootstrap.svg" /> `Bootstrap`,
 <img height="27" width="27" src="https://github.com/fntetteh/fntetteh/blob/main/icons8-figma.svg" /> `Figma`,
 <img height="27" width="27" src="https://github.com/fntetteh/fntetteh/blob/main/icons8-visual-studio.svg" /> `VSCODE`,
