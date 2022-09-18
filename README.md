@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/fntetteh/fntetteh/blob/main/Vanilla-1s-289px.gif "Logo Title Text 1")
 
 <!---
 - 👋 Hello there, I’m Felix. Currently studying Computer Systems Technology (CST) @British Columbia Institute of Technology (BCIT).
