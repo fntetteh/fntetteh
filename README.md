@@ -6,31 +6,21 @@
 -  🎓 Studying Computer Systems Technology at the British Columbia Institute of Technology.
 - 📚 Currently learning: `Object-Oriented Programming`, `data structures and algorithms`, `responsive web design`, `product design`, and `technical righting`.
 - 💬 Nothing beats the satisfaction of solving problems with programming. Down to collaborate.
-- Feel free to contact me here ...
+- 📫 Feel free to contact me here ...
 Gmail LinkedIn
 
 ### 🛠️ Languages and Tools 
-Python Git HTML5 CSS3 JavaScript Bootstrap Github VSCODE Pycharm WordPress Figma
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/[ICON SLUG].svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/[ICON SLUG].svg" />
+<img height="27" width="27" src="https://github.com/fntetteh/fntetteh/blob/main/icons8-git.svg" /> `Git`,
+<img height="27" width="27" src="https://github.com/fntetteh/fntetteh/blob/main/icons8-python.svg" /> `Python`,
+<img height="27" width="27" src="https://github.com/fntetteh/fntetteh/blob/main/icons8-html-5.svg" /> `HTML5`,
+<img height="27" width="27" src="https://github.com/fntetteh/fntetteh/blob/main/icons8-css3.svg" /> `CSS3`,
+<img height="27" width="27" src="https://github.com/fntetteh/fntetteh/blob/main/icons8-javascript-logo.svg" /> `JavaScript`,
+<img height="27" width="27" src="https://github.com/fntetteh/fntetteh/blob/main/icons8-bootstrap.svg" /> `Bootstrap`,
+<img height="27" width="27" src="https://github.com/fntetteh/fntetteh/blob/main/icons8-figma.svg" /> `Figma`,
+<img height="27" width="27" src="https://github.com/fntetteh/fntetteh/blob/main/icons8-visual-studio.svg" /> `VSCODE`,
+<img height="27" width="27" src="https://github.com/fntetteh/fntetteh/blob/main/icons8-wordpress.svg" /> `WordPress`,  
+<img height="27" width="27" src="https://github.com/fntetteh/fntetteh/blob/main/icons8-github.svg" /> `GitHub`
+
+
 ###  GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fntetteh&show_icons=true)  
-
-
-<!---
-- 👋 Hello there, I’m Felix. Currently studying Computer Systems Technology (CST) @British Columbia Institute of Technology (BCIT).
-- I'm currently looking for internships/CO-OP positions for the 2023 summer.
-- 👀 I’m interested in Mobile Development, Web Development, Data Science and Information Technology (IT).
-- 🌱 I’m currently learning Java and C++.
-
-
-![GitHub metrics](https://metrics.lecoq.io/Fntetteh)  
-
-
-fntetteh/fntetteh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-- 💞️ I’m looking to collaborate on p
-- 📫 How to reach me ...
-
---->
