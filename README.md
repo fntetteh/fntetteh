@@ -1,5 +1,6 @@
-
-![alt text](https://github.com/fntetteh/fntetteh/blob/main/Vanilla-1s-289px.gif "Logo Title Text 1")
+<p align="center">
+  <img src="https://github.com/fntetteh/fntetteh/blob/main/Vanilla-1s-289px.gif">
+</p>
 
 <!---
 - 👋 Hello there, I’m Felix. Currently studying Computer Systems Technology (CST) @British Columbia Institute of Technology (BCIT).
