@@ -5,7 +5,7 @@
 ### 👨🏾‍💻 About Me
 -  🎓 Studying Computer Systems Technology at the British Columbia Institute of Technology.
 - 📚 Currently learning: `Object-Oriented Programming`, `data structures and algorithms`, `responsive web design`, `product analysis and design`, and `technical wrighting`.
-- 💬 Nothing beats the satisfaction of solving problems with programming. Down to collaborate.
+- 💬 Nothing beats the satisfaction of solving problems with programming. Open to collaborate.
 - 📫 Feel free to contact me here : [Email](tettehfelixnuetey@gmail.com), [LinkedIn](http://linkedin.com/in/felix-nuetey-tetteh)
 
 
